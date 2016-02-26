@@ -1,0 +1,11 @@
+{
+  "name": "motion-view-transform",
+  "version": "1.0.0",
+  "description": "Transformer for the view syntax",
+  "main": "index.js",
+  "dependencies": {
+    "motion-nice-styles": "^0.9.0",
+    "hash-sum": "1.0.2",
+    "object-to-css": "1.0.3"
+  }
+}
